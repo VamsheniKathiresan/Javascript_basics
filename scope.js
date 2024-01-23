@@ -7,4 +7,4 @@ console.log(a)
     console.log(b)
 }
 console.log(a)
-//console.log(b)     relative error will occur
+console.log(b)     relative error will occur

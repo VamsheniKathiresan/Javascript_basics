@@ -11,5 +11,5 @@ console.log(a)*/
 func()     //executing this alone will give reference error
 function func()
 {
-    console.log("Vamsheni")
+    console.log("Vamsheni k")
 }

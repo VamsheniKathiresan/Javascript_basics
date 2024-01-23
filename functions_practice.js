@@ -43,7 +43,8 @@ else{
     console.log("Negative number")
 }
 
-/*Example 4
+/*ex4
+
 Function without argument and with return type*/
 
 function function_4()

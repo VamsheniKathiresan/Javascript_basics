@@ -20,8 +20,7 @@ function round_2()
     console.log("Prepare for GD")
 }
 interview_process(1,round_2)
-
-//example_2
+//ex2
 //form submission example
 
 function submitForm(buttonclick,db){
